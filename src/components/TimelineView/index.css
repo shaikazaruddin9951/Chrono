@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.time-line-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.responsive-contianer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 110px;
+  height: 100vh;
+}
+
+.header-contianer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.heading {
+  text-align: center;
+  color: #171f46;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 2.7;
+  margin: 0px;
+}
